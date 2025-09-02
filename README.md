@@ -1,52 +1,65 @@
-# 👋 Hi, I'm Jawad Khan  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codebyjawad/assets/main/banner.png" alt="Code by Jawad" width="100%" />
+</p>
 
-💻 **Full-Stack Developer | Automation Expert | Flutter Enthusiast**  
-
-I specialize in crafting clean, scalable, and user-focused applications.  
-From **mobile apps in Flutter** to **backend systems in Laravel/Node.js**, and from **React web apps** to **automations with Python, Google Sheets, Apps Script, Excel & VBA** — I turn ideas into complete solutions.  
+<h1 align="center">👋 Hi, I'm Muhammad Jawad Iqbal Khan</h1>  
+<p align="center">💻 Full-Stack Developer | Automation Expert | Flutter Enthusiast</p>  
 
 ---
 
 ## 🚀 About Me  
+I specialize in crafting clean, scalable, and user-focused applications.  
+From **mobile apps in Flutter** to **backend systems in Laravel/Node.js**, and from **React web apps** to **automations with Python, Google Sheets, Apps Script, Excel & VBA** — I turn ideas into complete solutions.  
+
 - 🌍 Based in **Khanewal, Pakistan**  
 - 🎯 Focused on **clean architecture, state management, and reliability**  
-- 🤝 Love collaborating with **designers & product owners** to build impressive apps  
-- 📱 Passionate about **Flutter (Provider, null safety, error handling)**  
-- ⚡ Skilled in **Laravel, Node.js, React, Python, Automation (Google Sheets, VBA)**  
+- 🤝 Collaborating with **designers & product owners** to build impressive apps  
 - 🌐 Owner of [codebyjawad.com](https://codebyjawad.com)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Frontend & Mobile**  
-- Flutter (Provider, null safety)  
-- React (Next.js, Tailwind)  
-
-**Backend**  
-- Laravel | Node.js | REST APIs  
-
-**Automation & Tools**  
-- Python | Google Apps Script | Excel | VBA  
-
-**Other**  
-- Git | GitHub | Hostinger | Vercel  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects  
-- 📱 **Flutter Apps** → Clean state management with Provider  
-- ⚙️ **Laravel Systems** → Robust APIs & elegant UIs  
-- 🤖 **Automation Scripts** → Save time with Google Sheets, VBA, and Python  
+
+### 📱 Flutter Apps  
+✅ Built with **Provider state management**  
+✅ Null safety + Error handling  
+✅ Polished Material 3 UI  
+
+### ⚙️ Laravel Systems  
+✅ Clean & robust APIs  
+✅ Elegant Blade UI layouts  
+✅ Error handling and security  
+
+### 🤖 Automation Scripts  
+✅ Google Sheets + Apps Script  
+✅ Python automations  
+✅ Excel + VBA tools  
 
 ---
 
 ## 📫 Connect With Me  
 
-- 🌐 Portfolio: [codebyjawad.com](https://codebyjawad.com)  
-- 💼 LinkedIn: *[Add your LinkedIn link here]*  
-- 📧 Email: *[your professional email]*  
-- 💬 WhatsApp: [Click to Chat](https://wa.me/923014149031)  
+<p align="center">
+  <a href="https://codebyjawad.com"><img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge"/></a>
+  <a href="https://wa.me/923014149031"><img src="https://img.shields.io/badge/💬-WhatsApp-25D366?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge"/></a>
+</p>  
 
 ---
 
