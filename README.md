@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codebyjawad/assets/main/banner.png" alt="Code by Jawad" width="100%" />
+  <img src="https://raw.githubusercontent.com/codebyjawad/assets/main/codebyjawad.png" alt="Code by Jawad" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Muhammad Jawad Iqbal Khan</h1>  
